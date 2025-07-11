@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm TheMadIrish!</h1>
 
 <p align="center">
-  <em>Roblox Developer • YouTube Creator • Future Engineer</em>
+  <em>Roblox Developer • YouTube Creator • Future Physicist And Engineer</em>
 </p>
 
 ---
@@ -22,9 +22,9 @@
 
 ### 🛠️ What I’m Working On
 
-- Making **Lucky Block Wars ** with unique swords and staves 🔮⚔️  
+- Making **Lucky Block Wars ** with unique swords and staffs 🔮⚔️  
 - Growing a **YouTube channel** 📹  
-- Studying to become an **Engineer** 🌍🧪
+- Studying to become an **Physicist And Engineer** 🌍🧪
 
 ---
 
