@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm TheMadIrish!</h1>
 
 <p align="center">
-  <em>Roblox Developer • YouTube Creator • Future Physicist And Engineer</em>
+  <em>• Future Physicist And Engineer Roblox Developer • YouTube Creator</em>
 </p>
 
 <hr/>
