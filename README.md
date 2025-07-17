@@ -4,7 +4,7 @@
 </p>
 
 <!-- Skill Icons -->
-<h2 align="center">⚙️ Languages & Tools</h2>
+<h2 align="center">weeeee </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,python,robloxstudio,lua,cpp,html,css,js,react,threejs,git,vscode" />
