@@ -1,20 +1,33 @@
-<h2 align="center">♟️ Weapons of Choice ♟️</h2>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&animation=fadeIn" />
+</p>
 
-<table align="center" cellspacing="0" cellpadding="10">
-  <!-- Rank 8 -->
-  <tr><td>⬛</td><td>⬜</td><td>⬛</td><td>♝</td><td>⬛</td><td>⬜</td><td>♚</td><td>⬛</td></tr>
-  <!-- Rank 7 -->
-  <tr><td>♟</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>♟</td><td>⬛</td><td>⬜</td></tr>
-  <!-- Rank 6 -->
-  <tr><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>♝</td><td>⬛</td></tr>
-  <!-- Rank 5 -->
-  <tr><td>⬜</td><td>⬛</td><td>♘</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td></tr>
-  <!-- Rank 4 -->
-  <tr><td>⬛</td><td>⬜</td><td>⬛</td><td>♘</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td></tr>
-  <!-- Rank 3 -->
-  <tr><td>⬜</td><td>⬛</td><td>♙</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td></tr>
-  <!-- Rank 2 -->
-  <tr><td>♙</td><td>⬜</td><td>⬛</td><td>⬜</td><td>♗</td><td>♙</td><td>⬛</td><td>⬜</td></tr>
-  <!-- Rank 1 -->
-  <tr><td>⬛</td><td>♖</td><td>⬛</td><td>⬜</td><td>♔</td><td>⬛</td><td>⬜</td><td>♖</td></tr>
-</table>
+<!-- Weapons of Choice -->
+<h2 align="center">⚔️ Weapons of Choice</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,lua,typescript,cpp,react,js,html,css,threejs,vscode,git,robloxstudio&perline=6" />
+</p>
+
+<!-- Language Usage -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMadIrish&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<!-- GitHub Skyline -->
+<p align="center">
+  <a href="https://skyline.github.com/TheMadIrish/2024" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-3D%20Contribution%20Graph-orange?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<!-- Animated Quote -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00F1FF&center=true&vCenter=true&multiline=true&width=700&lines=I+build+worlds+%26+simulate+them+to+understand+reality.;Every+project+trains+the+future+me.;This+planet+is+worth+engineering+for." />
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+</p>
