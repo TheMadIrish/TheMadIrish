@@ -24,8 +24,9 @@
 
 <!-- Animated Quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00F1FF&center=true&vCenter=true&multiline=true&width=700&lines=I+build+worlds+%26+simulate+them+to+understand+reality.;Every+project+trains+the+future+me.;This+planet+is+worth+engineering+for." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00F1FF&center=true&vCenter=true&multiline=true&width=700&lines=I+like+to+%26+eat+lots+of+potatoes.;yes+Yes+YEs+YES+YESS+YESSSSSS.;Shut+your+festering+gob+you+tit!" />
 </p>
+
 
 <!-- Animated Footer -->
 <p align="center">
