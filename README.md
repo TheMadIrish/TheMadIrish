@@ -1,9 +1,12 @@
-<table>
-  <tr>
-    <td>♜</td><td>♞</td>...<!-- row of pieces -->
-  </tr>
-  <tr>
-    <td>Python</td><td>TypeScript</td>...<!-- your skills mapped as pieces -->
-  </tr>
-  <!-- 8x8 layout in full -->
+<h2 align="center">♟️ Weapons of Choice ♟️</h2>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr><td>♜</td><td>♞</td><td>♝</td><td>♛</td><td>♚</td><td>♝</td><td>♞</td><td>♜</td></tr>
+  <tr><td>♟</td><td>♟</td><td>♟</td><td>♟</td><td>♟</td><td>♟</td><td>♟</td><td>♟</td></tr>
+  <tr><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td></tr>
+  <tr><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td></tr>
+  <tr><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td></tr>
+  <tr><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td><td>⬜</td><td>⬛</td></tr>
+  <tr><td>♙</td><td>♙</td><td>♙</td><td>♙</td><td>♙</td><td>♙</td><td>♙</td><td>♙</td></tr>
+  <tr><td>♖</td><td>♘</td><td>♗</td><td>♕</td><td>♔</td><td>♗</td><td>♘</td><td>♖</td></tr>
 </table>
