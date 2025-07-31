@@ -4,7 +4,7 @@
 </p>
 
 <!-- Weapons of Choice -->
-<h2 align="center">⚔️ Weapons of Choice</h2>
+<h2 align="center">Weapons of Choice</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,lua,typescript,cpp,react,js,html,css,threejs,vscode,git,robloxstudio&perline=6" />
