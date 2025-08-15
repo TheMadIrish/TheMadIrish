@@ -10,11 +10,6 @@
   <img src="https://skillicons.dev/icons?i=python,lua,typescript,cpp,react,js,html,css,threejs,vscode,git,robloxstudio&perline=6" />
 </p>
 
-<!-- Langoo -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMadIrish&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
 <!-- Skylineee -->
 <p align="center">
   <a href="https://skyline.github.com/TheMadIrish/2024" target="_blank">
