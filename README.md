@@ -6,7 +6,7 @@
 <!-- Intro -->
 <h2 align="center">Hey, I'm <strong>TheMadIrish</strong> </h2>
 <p align="center">
-  You can find me at <strong>53.4495° N, 7.5030° W</strong>.
+  You can find me at <strong>53.5817° N, 6.6101° W</strong>.
 </p>
 
 <!-- Intro GIF -->
