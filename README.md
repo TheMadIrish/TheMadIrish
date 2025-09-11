@@ -20,7 +20,7 @@
 <!-- Animated GIF logos -->
 <p align="center">
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@TheMadIrish" target="_blank">
+  <a href="https://www.youtube.com/@TheMadIrishDev" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" height="60" alt="YouTube" />
   </a>
   &nbsp;&nbsp;
